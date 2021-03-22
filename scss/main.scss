@@ -23,6 +23,11 @@ header {
   padding: 20px 0;
 }
 
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
 .wrapper {
   display: flex;
   gap: 40px;
